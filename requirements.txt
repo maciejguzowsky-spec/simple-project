@@ -1,0 +1,2 @@
+# Dodaj zależności tutaj, np.:
+# requests==2.31.0

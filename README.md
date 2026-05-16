@@ -12,3 +12,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+## Kurs Python dla początkujących
+
+Przejdź do pliku `kurs-python-poczatkujacy.md`, aby zobaczyć prosty kurs dla początkujących. Znajdziesz tam definicję zmiennych, funkcji, instrukcji warunkowych i pętli.

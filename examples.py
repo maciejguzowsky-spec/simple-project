@@ -25,7 +25,7 @@ def main():
     przywitaj("Ala")
     moje_liczby = [1, 2, 3, 4, 5]
     print("Suma liczb:", policz_sume(moje_liczby))
-    pokaz_owoce(["jabłko", "banan", "gruszka"])
+    pokaz_owoce(["jabłko", "banan", "gruszka", "pomarańcza"])
 
 
 if __name__ == "__main__":
